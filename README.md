@@ -3,7 +3,7 @@ Tutorial and basics: The idea is that you should install R and get familiarized 
 
 1. Tutorials web
 
-- I would try one (or maybe both): http://tryr.codeschool.com/ and data.princeton.edu/R . Both start with the basic concepts of programming in R.
+- I would try one (or maybe both): http://tryr.codeschool.com/ and http://data.princeton.edu/R . Both start with the basic concepts of programming in R.
 
 - Youtube is also a great source to find teaching pages or even complete courses.
 
